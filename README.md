@@ -27,4 +27,5 @@ The script is well-structured, with clear separation of concerns between GUI cre
 
 Image of an App:
 
-![My Image](my-images\converterapp.png)
+![converter app](https://github.com/ganeshnaik10/CurrencyConverter/assets/114274628/7382bfde-c53b-49d1-93da-06cd82c32dee)
+
