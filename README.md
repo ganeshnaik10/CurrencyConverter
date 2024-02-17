@@ -24,3 +24,7 @@ Application Lifecycle:
 
 Upon closing the window, the background thread is stopped, and the application exits gracefully.
 The script is well-structured, with clear separation of concerns between GUI creation, data fetching, and currency conversion functionalities. It provides a simple and intuitive interface for users to convert currencies, along with error handling and background updating of exchange rates for a seamless experience.
+
+Image of an App:
+
+![My Image](my-images\converterapp.png)
