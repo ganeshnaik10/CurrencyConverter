@@ -6,9 +6,9 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from datetime import datetime, timedelta
 from ttkthemes import ThemedStyle
-import config
 
-API_KEY = config.api_key
+
+API_KEY ='Type_Your_API_Key'
 
 class CurrencyConverterApp:
     def __init__(self, root):
